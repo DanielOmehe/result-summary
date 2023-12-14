@@ -48,7 +48,7 @@ body {
 .result-summary-container{
     width: 600px;
     height: 450px;
-    box-shadow: 0 0 10px var(--slate-blue-gradient);
+    box-shadow: 0 0 10px var(--green-teal-gradient);
     margin: 8rem auto 7.5rem;
     display: flex;
     border-radius: 30px;
